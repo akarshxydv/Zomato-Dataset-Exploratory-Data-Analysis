@@ -1,4 +1,5 @@
 # Zomato-Dataset-Exploratory-Data-Analysis
+![img](download.png)
 # Brief Description of Domain :- 
 Zomato is on-demand food
 delivery platform having a presence in more than 23 countries. It
@@ -6,7 +7,7 @@ empowers individuals to get food from local eateries and restaurants
 delivered at their doorstep for a small fee. The platform also provides
 information about close-by restaurants, their menu cards, average cost,
 ratings and reviews.
-# About Dataset and Why I choose Zomato Restaurants Data :- 
+# About Zomato Restaurants Dataset :- 
 This Dataset contains 21 col and 9551 rows. Each restaurant in the
 dataset is uniquely identified by its Restaurant Id. 
 Every Restaurant contains the following variables:-
